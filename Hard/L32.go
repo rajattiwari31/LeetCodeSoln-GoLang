@@ -1,4 +1,4 @@
-package hard
+package Hard
 
 /* We will use the stack approach, where we will track the valid Parnethesis.
 Then calculate the gap between the valid parenthesis*/
