@@ -2,10 +2,10 @@
 Leetcode Solutions in GoLang
 
 ## Hard
-|LC #|Description|
-|:-:|:-|
+|LC #|Description|Tags|
+|:-:|:-|:-|
 |[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses|
-|[10](https://leetcode.com/problems/regular-expression-matching/)| Regular Expression Matching|
+|[10](https://leetcode.com/problems/regular-expression-matching/)| Regular Expression Matching| DP,Recusrion,Memoization|
 
 ## Easy
 |LC #|Description|
