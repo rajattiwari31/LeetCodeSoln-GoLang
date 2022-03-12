@@ -5,6 +5,7 @@ Leetcode Solutions in GoLang
 |LC #|Description|
 |:-:|:-|
 |[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses|
+|[10](https://leetcode.com/problems/regular-expression-matching/)| Regular Expression Matching|
 
 ## Easy
 |LC #|Description|
