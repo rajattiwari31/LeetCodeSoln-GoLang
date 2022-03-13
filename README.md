@@ -11,6 +11,7 @@ Leetcode Solutions in GoLang
 |LC #|Description|Tags|
 |:-:|:-|:-|
 |[2](https://leetcode.com/problems/add-two-numbers/)| Add Two Numbers| LinkedList,carry|
+|[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters| HashMap,SlidingWindow|
 
 
 ## Easy
