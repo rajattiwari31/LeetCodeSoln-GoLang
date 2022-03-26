@@ -6,6 +6,7 @@ Leetcode Solutions in GoLang
 |:-:|:-|:-|
 |[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses|
 |[10](https://leetcode.com/problems/regular-expression-matching/)| Regular Expression Matching| DP,Recusrion,Memoization|
+|[4](https://leetcode.com/problems/median-of-two-sorted-arrays/)|  Median of Two Sorted Arrays | BinarySearch,Algorithm |
 
 ## Medium
 |LC #|Description|Tags|
