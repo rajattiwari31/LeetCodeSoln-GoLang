@@ -9,7 +9,7 @@ import "math"
 	- just bother only about the middle element
 	- dont need to sort the whole array
 	- Use BinarySearch **Thats the catch
-	- Time Complexity - O(log(n+m))
+	- Time Complexity - O(log min(n,m)) - Because we are checking in starting to do binary search on minimal element
 */
 
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
