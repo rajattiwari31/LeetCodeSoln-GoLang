@@ -15,6 +15,7 @@ Leetcode Solutions in GoLang
 |[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters| HashMap,SlidingWindow|
 |[5](https://leetcode.com/problems/longest-palindromic-substring/)| Longest Palindromic Substring| ExpandingFromTheMiddle|
 |[11](https://leetcode.com/problems/container-with-most-water/)| Container With Most Water| TwoPointers |
+|[15](https://leetcode.com/problems/3sum/)| 3Sum | TwoPointers,Sort |
 
 
 
