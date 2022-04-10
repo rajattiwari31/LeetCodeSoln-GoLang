@@ -22,6 +22,7 @@ Leetcode Solutions in GoLang
 
 
 ## Easy
-|LC #|Description|
-|:-:|:-|
-|[1](https://leetcode.com/problems/two-sum/)| Two Sum|
+|LC #|Description|Tags|
+|:-:|:-|:-|
+|[1](https://leetcode.com/problems/two-sum/)| Two Sum| HashMap |
+|[20](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses| StackAlgo | 
