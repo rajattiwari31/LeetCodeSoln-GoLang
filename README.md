@@ -6,7 +6,8 @@ Leetcode Solutions in GoLang
 |:-:|:-|:-|
 |[4](https://leetcode.com/problems/median-of-two-sorted-arrays/)|  Median of Two Sorted Arrays | BinarySearch,Algorithm |
 |[10](https://leetcode.com/problems/regular-expression-matching/)| Regular Expression Matching| DP,Recusrion,Memoization|
-|[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses|
+|[23](https://leetcode.com/problems/merge-k-sorted-lists/)| Merge k Sorted Lists|
+|[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses| 
 
 ## Medium
 |LC #|Description|Tags|
