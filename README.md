@@ -18,6 +18,7 @@ Leetcode Solutions in GoLang
 |[11](https://leetcode.com/problems/container-with-most-water/)| Container With Most Water| TwoPointers |
 |[15](https://leetcode.com/problems/3sum/)| 3Sum | TwoPointers,Sort |
 |[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Remove Nth Node From End of List | SlowFast Pointers |
+|[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)| Search in Rotated Sorted Array | Pivot-BinarySearch |
 
 
 
