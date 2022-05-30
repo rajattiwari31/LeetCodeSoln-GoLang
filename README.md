@@ -20,6 +20,7 @@ Leetcode Solutions in GoLang
 |[19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Remove Nth Node From End of List | SlowFast Pointers |
 |[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)| Search in Rotated Sorted Array | Pivot-BinarySearch |
 |[39](https://leetcode.com/problems/combination-sum/)| Combination Sum | Backtracking |
+|[48](https://leetcode.com/problems/rotate-image/)|  Rotate Image | Matrix Reverse |
 
 
 
