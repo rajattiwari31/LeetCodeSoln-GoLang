@@ -21,7 +21,7 @@ Leetcode Solutions in GoLang
 |[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)| Search in Rotated Sorted Array | Pivot-BinarySearch |
 |[39](https://leetcode.com/problems/combination-sum/)| Combination Sum | Backtracking |
 |[48](https://leetcode.com/problems/rotate-image/)|  Rotate Image | Matrix Reverse |
-
+|[49](https://leetcode.com/problems/group-anagrams/)|   Group Anagrams | Hashmap,Sorting |
 
 
 
