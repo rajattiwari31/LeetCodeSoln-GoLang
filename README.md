@@ -32,3 +32,4 @@ Leetcode Solutions in GoLang
 |[1](https://leetcode.com/problems/two-sum/)| Two Sum| HashMap |
 |[20](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses| StackAlgo | 
 |[21](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | DummyNode |
+|[53](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray | DummyNode |
