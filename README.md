@@ -22,6 +22,7 @@ Leetcode Solutions in GoLang
 |[39](https://leetcode.com/problems/combination-sum/)| Combination Sum | Backtracking |
 |[48](https://leetcode.com/problems/rotate-image/)|  Rotate Image | Matrix Reverse |
 |[49](https://leetcode.com/problems/group-anagrams/)|   Group Anagrams | Hashmap,uniqueID |
+|[54](https://leetcode.com/problems/spiral-matrix/)|   Spiral Matrix | RightDownLeftUp |
 
 
 
@@ -32,4 +33,4 @@ Leetcode Solutions in GoLang
 |[1](https://leetcode.com/problems/two-sum/)| Two Sum| HashMap |
 |[20](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses| StackAlgo | 
 |[21](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | DummyNode |
-|[53](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray | DummyNode |
+|[53](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray | KadaneAlgo |
