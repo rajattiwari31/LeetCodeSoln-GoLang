@@ -23,6 +23,7 @@ Leetcode Solutions in GoLang
 |[48](https://leetcode.com/problems/rotate-image/)|  Rotate Image | Matrix Reverse |
 |[49](https://leetcode.com/problems/group-anagrams/)|   Group Anagrams | Hashmap,uniqueID |
 |[54](https://leetcode.com/problems/spiral-matrix/)|   Spiral Matrix | RightDownLeftUp |
+|[55](https://leetcode.com/problems/jump-game/)|  Jump Game | Greedy |
 
 
 
