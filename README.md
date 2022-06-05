@@ -26,6 +26,7 @@ Leetcode Solutions in GoLang
 |[55](https://leetcode.com/problems/jump-game/)|  Jump Game | Greedy |
 |[56](https://leetcode.com/problems/merge-intervals/)|  Merge Intervals | sorting |
 |[57](https://leetcode.com/problems/insert-interval/)|  Insert Interval | sorting |
+|[62](https://leetcode.com/problems/unique-paths/)|  Unique Paths | Graph,DFS |
 
 
 
