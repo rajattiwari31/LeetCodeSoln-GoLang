@@ -27,6 +27,7 @@ Leetcode Solutions in GoLang
 |[56](https://leetcode.com/problems/merge-intervals/)|  Merge Intervals | sorting |
 |[57](https://leetcode.com/problems/insert-interval/)|  Insert Interval | sorting |
 |[62](https://leetcode.com/problems/unique-paths/)|  Unique Paths | Graph,DFS |
+|[62](https://leetcode.com/problems/unique-paths/)|  Unique Paths | Graph,DFS |
 
 
 
@@ -38,3 +39,4 @@ Leetcode Solutions in GoLang
 |[20](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses| StackAlgo | 
 |[21](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | DummyNode |
 |[53](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray | KadaneAlgo |
+|[70](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | DP |

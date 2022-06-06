@@ -5,9 +5,9 @@ Approach -
 	- Start from the end and build the array
 	- add index from down and right of that block
 TimeComplexity -
-	- o(n*n)
+	- o(m*n)
 SpaceCompelixty -
-	- o(1)
+	- o(m*n)
 */
 
 func uniquePaths(m int, n int) int {
