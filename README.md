@@ -27,7 +27,7 @@ Leetcode Solutions in GoLang
 |[56](https://leetcode.com/problems/merge-intervals/)|  Merge Intervals | sorting |
 |[57](https://leetcode.com/problems/insert-interval/)|  Insert Interval | sorting |
 |[62](https://leetcode.com/problems/unique-paths/)|  Unique Paths | Graph,DFS |
-|[62](https://leetcode.com/problems/unique-paths/)|  Unique Paths | Graph,DFS |
+|[73](https://leetcode.com/problems/set-matrix-zeroes/)|  Set Matrix Zeroes | TwoTimesTraversing |
 
 
 
