@@ -40,3 +40,4 @@ Leetcode Solutions in GoLang
 |[21](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | DummyNode |
 |[53](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray | KadaneAlgo |
 |[70](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | DP |
+|[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)| Binary Tree Inorder Traversal | Tree |
