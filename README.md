@@ -28,6 +28,7 @@ Leetcode Solutions in GoLang
 |[57](https://leetcode.com/problems/insert-interval/)|  Insert Interval | sorting |
 |[62](https://leetcode.com/problems/unique-paths/)|  Unique Paths | Graph,DFS |
 |[73](https://leetcode.com/problems/set-matrix-zeroes/)|  Set Matrix Zeroes | TwoTimesTraversing |
+|[98](https://leetcode.com/problems/validate-binary-search-tree/)|  Validate Binary Search Tree | Inorder |
 
 
 
@@ -40,4 +41,6 @@ Leetcode Solutions in GoLang
 |[21](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists | DummyNode |
 |[53](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray | KadaneAlgo |
 |[70](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | DP |
+|[76](https://leetcode.com/problems/minimum-window-substring/solution/)| Minimum Window Substring | sliding window |
 |[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)| Binary Tree Inorder Traversal | Tree |
+
