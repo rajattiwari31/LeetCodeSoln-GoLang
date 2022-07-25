@@ -28,6 +28,7 @@ Leetcode Solutions in GoLang
 |[57](https://leetcode.com/problems/insert-interval/)|  Insert Interval | sorting |
 |[62](https://leetcode.com/problems/unique-paths/)|  Unique Paths | Graph,DFS |
 |[73](https://leetcode.com/problems/set-matrix-zeroes/)|  Set Matrix Zeroes | TwoTimesTraversing |
+|[79](https://leetcode.com/problems/word-search/)|  Word Search | DFS+backtracking |
 |[98](https://leetcode.com/problems/validate-binary-search-tree/)|  Validate Binary Search Tree | Inorder |
 
 
