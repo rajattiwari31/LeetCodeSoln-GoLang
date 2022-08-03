@@ -12,7 +12,7 @@ func isValidBST(root *TreeNode) bool {
 	}
 
 	stack := make([]*TreeNode, 0)
-	prev := &TreeNode{}
+	var prev *TreeNode
 	curr := root
 	for curr != nil || len(stack) != 0 {
 		for curr != nil {
