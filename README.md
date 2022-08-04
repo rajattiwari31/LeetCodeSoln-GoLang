@@ -45,4 +45,5 @@ Leetcode Solutions in GoLang
 |[70](https://leetcode.com/problems/climbing-stairs/)| Climbing Stairs | DP |
 |[76](https://leetcode.com/problems/minimum-window-substring/solution/)| Minimum Window Substring | sliding window |
 |[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)| Binary Tree Inorder Traversal | Tree |
+|[100](https://leetcode.com/problems/same-tree/)|  Same Tree | recursion |
 
