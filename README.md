@@ -32,6 +32,7 @@ Leetcode Solutions in GoLang
 |[91](https://leetcode.com/problems/decode-ways/)| Decode Ways | 1-d DP |
 |[98](https://leetcode.com/problems/validate-binary-search-tree/)|  Validate Binary Search Tree | Inorder |
 |[102](https://leetcode.com/problems/binary-tree-level-order-traversal/)|  Binary Tree Level Order Traversal | BFS,LevelOrderTraversal |
+|[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|  Construct Binary Tree from Preorder and Inorder Traversal | Tree,Recursion |
 
 
 
@@ -47,5 +48,5 @@ Leetcode Solutions in GoLang
 |[76](https://leetcode.com/problems/minimum-window-substring/solution/)| Minimum Window Substring | sliding window |
 |[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)| Binary Tree Inorder Traversal | Tree |
 |[100](https://leetcode.com/problems/same-tree/)|  Same Tree | recursion |
-|[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/  )|  Maximum Depth of Binary Tree | recursion |
+|[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/  )|  Maximum Depth of Binary Tree | recursion,DFS |
 
