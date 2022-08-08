@@ -49,4 +49,5 @@ Leetcode Solutions in GoLang
 |[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)| Binary Tree Inorder Traversal | Tree |
 |[100](https://leetcode.com/problems/same-tree/)|  Same Tree | recursion |
 |[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/  )|  Maximum Depth of Binary Tree | recursion,DFS |
+|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/  )|  Best Time to Buy and Sell Stock | Algo |
 
